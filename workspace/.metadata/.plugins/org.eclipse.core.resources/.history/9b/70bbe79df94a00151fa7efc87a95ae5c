@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">activityTest</string>
+	<string name="button_1">点我</string>
+</resources>

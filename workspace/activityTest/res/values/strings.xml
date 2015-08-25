@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">activityTest</string>
+	<string name="button_1">点我</string>
+	<string name="button_2">button 2</string>
+	<string name="button_3">button 3</string>
+</resources>
